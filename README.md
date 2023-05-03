@@ -1,8 +1,9 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead width="1600" heigt="200"](https://cdn.hashnode.com/res/hashnode/image/upload/v1669911252187/UzpcRIB-_.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Levy kipkoech</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<img align="right" alt="coding" width="400" src=" https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 - 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **kipkoechlevy096@gmail.com**
